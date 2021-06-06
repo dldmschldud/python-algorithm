@@ -9,4 +9,3 @@ for i in range(n):
   min_num=min(data)
   result=max(result,min_num)
 print(result)
-
